@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //Feature is done for this branch
+        // Bug fixes ins done for this release branch
     }
 }
