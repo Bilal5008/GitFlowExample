@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //Feature is done for this branch
         // Bug fixes ins done for this release branch
+        // hot fixes done with master branch
     }
 }
